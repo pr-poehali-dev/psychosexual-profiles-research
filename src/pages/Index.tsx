@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { psychosexualProfiles } from "@/data/profiles";
+import { psychosexualProfiles } from "@/data/profiles.ts";
 import ProfileCard from "@/components/ProfileCard";
 import ProfileDetails from "@/components/ProfileDetails";
 import PieChart from "@/components/PieChart";
